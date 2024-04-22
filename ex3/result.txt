@@ -1,2 +1,1 @@
-REPOSITORY       TAG       IMAGE ID       CREATED      SIZE
-densukest/nazo   latest    49113e42d72c   2 days ago   7.9MB
+7.9MB
